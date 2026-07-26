@@ -1,0 +1,6 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+expense.db
+expense.csv
